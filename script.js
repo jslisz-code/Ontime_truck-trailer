@@ -1,40 +1,201 @@
-const toggle = document.querySelector('.menu-toggle');
-const navLinks = document.querySelector('.nav-links');
+// =========================================================
+// ON-TIME TRUCK & TRAILER
+// WEBSITE JAVASCRIPT
+// =========================================================
 
-if (toggle && navLinks) {
-  toggle.addEventListener('click', () => {
-    const isOpen = navLinks.classList.toggle('open');
-    toggle.setAttribute('aria-expanded', String(isOpen));
-    toggle.setAttribute('aria-label', isOpen ? 'Close navigation' : 'Open navigation');
-    document.body.classList.toggle('menu-open', isOpen);
-  });
 
-  navLinks.querySelectorAll('a').forEach((link) => {
-    link.addEventListener('click', () => {
-      navLinks.classList.remove('open');
-      toggle.setAttribute('aria-expanded', 'false');
-      toggle.setAttribute('aria-label', 'Open navigation');
-      document.body.classList.remove('menu-open');
-    });
-  });
+
+// =========================
+// MOBILE NAVIGATION
+// =========================
+
+const menuToggle =
+  document.querySelector(".menu-toggle");
+
+const navLinks =
+  document.querySelector(".nav-links");
+
+
+if (menuToggle && navLinks) {
+
+  menuToggle.addEventListener(
+    "click",
+    function () {
+
+      const isOpen =
+        navLinks.classList.toggle("open");
+
+      menuToggle.classList.toggle(
+        "active",
+        isOpen
+      );
+
+      menuToggle.setAttribute(
+        "aria-expanded",
+        isOpen
+      );
+
+    }
+  );
+
+
+  // Close menu after clicking
+  // a navigation link
+
+  const mobileLinks =
+    navLinks.querySelectorAll("a");
+
+
+  mobileLinks.forEach(
+    function (link) {
+
+      link.addEventListener(
+        "click",
+        function () {
+
+          navLinks.classList.remove(
+            "open"
+          );
+
+          menuToggle.classList.remove(
+            "active"
+          );
+
+          menuToggle.setAttribute(
+            "aria-expanded",
+            "false"
+          );
+
+        }
+      );
+
+    }
+  );
+
 }
 
-document.getElementById('year').textContent = new Date().getFullYear();
 
-const revealItems = document.querySelectorAll('.reveal');
-const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-if (reducedMotion || !('IntersectionObserver' in window)) {
-  revealItems.forEach((item) => item.classList.add('in-view'));
-} else {
-  const observer = new IntersectionObserver((entries) => {
-    entries.forEach((entry) => {
-      if (entry.isIntersecting) {
-        entry.target.classList.add('in-view');
-        observer.unobserve(entry.target);
+// =========================
+// AUTOMATIC COPYRIGHT YEAR
+// =========================
+
+const yearElement =
+  document.getElementById("year");
+
+
+if (yearElement) {
+
+  yearElement.textContent =
+    new Date().getFullYear();
+
+}
+
+
+
+// =========================
+// SCROLL REVEAL
+// =========================
+
+const revealElements =
+  document.querySelectorAll(".reveal");
+
+
+if (
+  "IntersectionObserver" in window
+) {
+
+  const revealObserver =
+    new IntersectionObserver(
+
+      function (entries, observer) {
+
+        entries.forEach(
+          function (entry) {
+
+            if (
+              entry.isIntersecting
+            ) {
+
+              entry.target.classList.add(
+                "visible"
+              );
+
+              observer.unobserve(
+                entry.target
+              );
+
+            }
+
+          }
+        );
+
+      },
+
+      {
+        threshold: 0.12
       }
-    });
-  }, { threshold: 0.12 });
 
-  revealItems.forEach((item) => observer.observe(item));
+    );
+
+
+  revealElements.forEach(
+    function (element) {
+
+      revealObserver.observe(
+        element
+      );
+
+    }
+  );
+
+} else {
+
+  // Fallback for older browsers
+
+  revealElements.forEach(
+    function (element) {
+
+      element.classList.add(
+        "visible"
+      );
+
+    }
+  );
+
 }
+
+
+
+// =========================
+// CLOSE MOBILE NAV
+// IF WINDOW IS RESIZED
+// =========================
+
+window.addEventListener(
+  "resize",
+  function () {
+
+    if (
+      window.innerWidth > 800 &&
+      navLinks &&
+      menuToggle
+    ) {
+
+      navLinks.classList.remove(
+        "open"
+      );
+
+      menuToggle.classList.remove(
+        "active"
+      );
+
+      menuToggle.setAttribute(
+        "aria-expanded",
+        "false"
+      );
+
+    }
+
+  }
+);
