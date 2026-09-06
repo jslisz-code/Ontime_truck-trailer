@@ -1,26 +1,25 @@
-# On-Time Truck & Trailer Rebuild
+# On-Time Truck & Trailer SEO Site
 
-A cleaner, responsive static rebuild based on the public information currently presented on ontimetruckandtrailer.com.
+Files are plain HTML/CSS/JS and work with VS Code Live Server and GitHub Pages.
 
-## Files
-- `index.html` — single-page site structure and content
-- `styles.css` — responsive layout, visuals and animations
-- `script.js` — mobile navigation and subtle scroll reveals
+## Root files
+- index.html
+- mobile-fleet-service.html
+- roadside-assistance.html
+- fleet-technology.html
+- commercial-ev-charging.html
+- tempora-solutions.html
+- projects.html
+- samsara-gps-installations.html
+- axon-fleet-installations.html
+- yellowstone-fleet-installation.html
+- styles.css
+- script.js
+- robots.txt
+- sitemap.xml
 
-## Run locally
-Open `index.html` directly in a browser, or use VS Code Live Server.
+## Important
+The canonical and sitemap URLs assume the final production domain will be:
+https://ontimetruckandtrailer.com/
 
-## Link cleanup
-The rebuild intentionally uses only:
-- Internal section navigation
-- Click-to-call phone links
-- A Google Maps location link
-
-No placeholder forms, empty buttons or decorative links are included.
-
-## Content cleanup / verification notes
-- The original homepage contains a visible `27/7` typo; this rebuild uses `24/7`, consistent with the rest of the site.
-- Tempora Solutions has inconsistent phone numbers on the source site. The rebuild uses `(772) 528-3588`, which appears in the source site's top contact line and multiple project pages. The source Tempora footer also shows `(772) 643-6361`; verify the preferred number before production launch.
-- Content was consolidated and rewritten for clarity rather than copied verbatim.
-- The original site's news/posts were condensed into representative project highlights so the homepage stays focused.
-# Ontime_truck-trailer
+GitHub Pages can still preview the site. All navigation uses relative file paths, so it also works from a GitHub project-site URL.

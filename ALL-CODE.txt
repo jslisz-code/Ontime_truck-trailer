@@ -1,0 +1,1188 @@
+===== axon-fleet-installations.html =====
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>VAMC Axon F3 Installations | On-Time Truck & Trailer</title>
+<meta name="description" content="More than 650 VAMC vehicles outfitted with Axon F3 systems, Airgain antennas, Cradlepoint routers and docking stations.">
+<link rel="canonical" href="https://ontimetruckandtrailer.com/axon-fleet-installations/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" type="image/jpeg" href="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="VAMC Axon F3 Installations | On-Time Truck & Trailer">
+<meta property="og:description" content="More than 650 VAMC vehicles outfitted with Axon F3 systems, Airgain antennas, Cradlepoint routers and docking stations.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://ontimetruckandtrailer.com/axon-fleet-installations/">
+<meta property="og:image" content="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"WebPage",
+  "name":"VAMC Axon F3 Installations | On-Time Truck & Trailer",
+  "url":"https://ontimetruckandtrailer.com/axon-fleet-installations/",
+  "isPartOf":{"@type":"WebSite","name":"On-Time Truck & Trailer","url":"https://ontimetruckandtrailer.com/"}
+}
+</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="utility-bar">
+    <div class="container utility-content">
+      <span>Mobile Fleet Service • Winchester, Kentucky</span>
+      <span><a href="tel:+18593279799">On-Time: (859) 327-9799</a> &nbsp;|&nbsp; <a href="tel:+17725283588">Tempora: (772) 528-3588</a></span>
+    </div>
+  </div>
+  <div class="main-nav-wrapper">
+    <nav class="container main-nav" aria-label="Primary">
+      <a href="index.html" aria-label="On-Time Truck and Trailer home"><img class="brand-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false"><span></span><span></span><span></span></button>
+      <div class="nav-links">
+        <a href="mobile-fleet-service.html">Fleet Service</a>
+        <a href="roadside-assistance.html">Roadside</a>
+        <a href="fleet-technology.html">Technology</a>
+        <a href="commercial-ev-charging.html">EV Charging</a>
+        <a href="projects.html">Projects</a>
+        <a href="index.html#about">About</a>
+        <a class="nav-button" href="tel:+18593279799">Call Now</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<section class="page-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a> / <a href="projects.html">Projects</a> / VAMC Axon F3</div><p class="eyebrow">PROJECT CASE STUDY</p><h1>650+ VAMC Axon F3 installations.</h1><p>Large-scale public-sector fleet technology deployment with cameras, antennas, routers and docking systems.</p></div></section>
+<section class="section"><div class="container content-grid"><article class="prose reveal"><h2>Project overview</h2><p>The published installation overview states that more than 650 vehicles were outfitted with Axon F3 systems including DVR and camera hardware.</p><h2>Integrated equipment</h2><ul><li>Axon F3 DVR and camera system</li><li>9-in-1 and 4-in-1 Airgain antennas</li><li>Cradlepoint IBR1700 router</li><li>Gamber-Johnson and Havis docking stations</li></ul><p><a class="card-link" href="fleet-technology.html">Explore fleet technology installation →</a></p></article><aside class="sidebar reveal"><h3>Project Facts</h3><p><strong>Scale:</strong> 650+ units</p><p><strong>System:</strong> Axon F3</p><p><strong>Connectivity:</strong> Cradlepoint + Airgain</p><a class="button button-primary" style="margin-top:20px;width:100%" href="tel:+17725283588">Call Tempora</a></aside></div></section>
+
+</main>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <a class="footer-logo-wrap" href="index.html"><img class="footer-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <p>Mobile fleet maintenance, roadside assistance and technology solutions.</p>
+    </div>
+    <div class="footer-col">
+      <strong>Services</strong>
+      <a href="mobile-fleet-service.html">Mobile Fleet Service</a>
+      <a href="roadside-assistance.html">Roadside Assistance</a>
+      <a href="fleet-technology.html">Fleet Technology</a>
+      <a href="commercial-ev-charging.html">EV Charging</a>
+    </div>
+    <div class="footer-col">
+      <strong>Explore</strong>
+      <a href="tempora-solutions.html">Tempora Solutions</a>
+      <a href="projects.html">Projects</a>
+      <a href="index.html#industries">Industries</a>
+      <a href="index.html#about">About</a>
+    </div>
+    <div class="footer-col">
+      <strong>Contact</strong>
+      <a href="tel:+18593279799">(859) 327-9799</a>
+      <span>116 Candlewood Drive</span>
+      <span>Winchester, KY 40391</span>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <span>© <span data-year></span> On-Time Truck & Trailer. All rights reserved.</span>
+    <a href="index.html">Home ↑</a>
+  </div>
+</footer>
+<script src="script.js"></script>
+
+</body>
+</html>
+
+===== commercial-ev-charging.html =====
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Commercial EV Charging | On-Time Truck & Trailer</title>
+<meta name="description" content="Commercial EV charging infrastructure and fleet charging solutions from On-Time Truck & Trailer.">
+<link rel="canonical" href="https://ontimetruckandtrailer.com/commercial-ev-charging/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" type="image/jpeg" href="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Commercial EV Charging | On-Time Truck & Trailer">
+<meta property="og:description" content="Commercial EV charging infrastructure and fleet charging solutions from On-Time Truck & Trailer.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://ontimetruckandtrailer.com/commercial-ev-charging/">
+<meta property="og:image" content="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"WebPage",
+  "name":"Commercial EV Charging | On-Time Truck & Trailer",
+  "url":"https://ontimetruckandtrailer.com/commercial-ev-charging/",
+  "isPartOf":{"@type":"WebSite","name":"On-Time Truck & Trailer","url":"https://ontimetruckandtrailer.com/"}
+}
+</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="utility-bar">
+    <div class="container utility-content">
+      <span>Mobile Fleet Service • Winchester, Kentucky</span>
+      <span><a href="tel:+18593279799">On-Time: (859) 327-9799</a> &nbsp;|&nbsp; <a href="tel:+17725283588">Tempora: (772) 528-3588</a></span>
+    </div>
+  </div>
+  <div class="main-nav-wrapper">
+    <nav class="container main-nav" aria-label="Primary">
+      <a href="index.html" aria-label="On-Time Truck and Trailer home"><img class="brand-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false"><span></span><span></span><span></span></button>
+      <div class="nav-links">
+        <a href="mobile-fleet-service.html">Fleet Service</a>
+        <a href="roadside-assistance.html">Roadside</a>
+        <a href="fleet-technology.html">Technology</a>
+        <a href="commercial-ev-charging.html">EV Charging</a>
+        <a href="projects.html">Projects</a>
+        <a href="index.html#about">About</a>
+        <a class="nav-button" href="tel:+18593279799">Call Now</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<section class="page-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a> / Commercial EV Charging</div><p class="eyebrow">COMMERCIAL EV CHARGING</p><h1>Charging infrastructure designed around fleet operations.</h1><p>Commercial EV charging solutions for organizations planning, installing and supporting electrified fleet infrastructure.</p></div></section>
+<section class="section"><div class="container content-grid"><article class="prose reveal"><h2>Fleet charging is an operational system.</h2><p>Commercial charging works best when the equipment, electrical capacity, vehicle schedules and monitoring requirements are considered together.</p><h2>Charging support</h2><ul><li>Commercial fleet charging infrastructure</li><li>Charging-system installation support</li><li>Monitoring and diagnostics</li><li>Load-management considerations</li><li>Ongoing maintenance support</li></ul><h2>Connect charging with fleet technology</h2><p>Organizations can also combine charging infrastructure with mobile networking, field technology and vehicle systems through the broader On-Time and Tempora capabilities.</p><p><a class="card-link" href="tempora-solutions.html">Explore Tempora Solutions →</a></p></article><aside class="sidebar reveal"><h3>Related Capabilities</h3><a class="side-link" href="fleet-technology.html">Fleet Technology</a><a class="side-link" href="tempora-solutions.html">Tempora Solutions</a><a class="side-link" href="mobile-fleet-service.html">Mobile Fleet Service</a><a class="button button-primary" style="margin-top:22px;width:100%" href="tel:+18593279799">Discuss Your Fleet</a></aside></div></section>
+
+</main>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <a class="footer-logo-wrap" href="index.html"><img class="footer-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <p>Mobile fleet maintenance, roadside assistance and technology solutions.</p>
+    </div>
+    <div class="footer-col">
+      <strong>Services</strong>
+      <a href="mobile-fleet-service.html">Mobile Fleet Service</a>
+      <a href="roadside-assistance.html">Roadside Assistance</a>
+      <a href="fleet-technology.html">Fleet Technology</a>
+      <a href="commercial-ev-charging.html">EV Charging</a>
+    </div>
+    <div class="footer-col">
+      <strong>Explore</strong>
+      <a href="tempora-solutions.html">Tempora Solutions</a>
+      <a href="projects.html">Projects</a>
+      <a href="index.html#industries">Industries</a>
+      <a href="index.html#about">About</a>
+    </div>
+    <div class="footer-col">
+      <strong>Contact</strong>
+      <a href="tel:+18593279799">(859) 327-9799</a>
+      <span>116 Candlewood Drive</span>
+      <span>Winchester, KY 40391</span>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <span>© <span data-year></span> On-Time Truck & Trailer. All rights reserved.</span>
+    <a href="index.html">Home ↑</a>
+  </div>
+</footer>
+<script src="script.js"></script>
+
+</body>
+</html>
+
+===== fleet-technology.html =====
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Fleet Technology Installation | On-Time Truck & Trailer</title>
+<meta name="description" content="Mobile fleet technology installation including GPS, telematics, cameras, networking and rugged vehicle hardware.">
+<link rel="canonical" href="https://ontimetruckandtrailer.com/fleet-technology/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" type="image/jpeg" href="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Fleet Technology Installation | On-Time Truck & Trailer">
+<meta property="og:description" content="Mobile fleet technology installation including GPS, telematics, cameras, networking and rugged vehicle hardware.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://ontimetruckandtrailer.com/fleet-technology/">
+<meta property="og:image" content="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"WebPage",
+  "name":"Fleet Technology Installation | On-Time Truck & Trailer",
+  "url":"https://ontimetruckandtrailer.com/fleet-technology/",
+  "isPartOf":{"@type":"WebSite","name":"On-Time Truck & Trailer","url":"https://ontimetruckandtrailer.com/"}
+}
+</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="utility-bar">
+    <div class="container utility-content">
+      <span>Mobile Fleet Service • Winchester, Kentucky</span>
+      <span><a href="tel:+18593279799">On-Time: (859) 327-9799</a> &nbsp;|&nbsp; <a href="tel:+17725283588">Tempora: (772) 528-3588</a></span>
+    </div>
+  </div>
+  <div class="main-nav-wrapper">
+    <nav class="container main-nav" aria-label="Primary">
+      <a href="index.html" aria-label="On-Time Truck and Trailer home"><img class="brand-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false"><span></span><span></span><span></span></button>
+      <div class="nav-links">
+        <a href="mobile-fleet-service.html">Fleet Service</a>
+        <a href="roadside-assistance.html">Roadside</a>
+        <a href="fleet-technology.html">Technology</a>
+        <a href="commercial-ev-charging.html">EV Charging</a>
+        <a href="projects.html">Projects</a>
+        <a href="index.html#about">About</a>
+        <a class="nav-button" href="tel:+18593279799">Call Now</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<section class="page-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a> / Fleet Technology</div><p class="eyebrow">FLEET TECHNOLOGY</p><h1>Connected fleet technology installed where the vehicles are.</h1><p>Mobile installation and support for cameras, GPS, telematics, networking and specialized in-vehicle systems.</p></div></section>
+<section class="section"><div class="container content-grid"><article class="prose reveal"><h2>Mobile technology installation.</h2><p>Through On-Time and Tempora Solutions, fleet technology can be deployed at customer locations across a wide range of commercial and public-sector vehicles.</p><h2>Technology capabilities</h2><ul><li>GPS and telematics hardware</li><li>In-vehicle cameras and video systems</li><li>Mobile routers and wireless connectivity</li><li>Rugged computers and docking hardware</li><li>Antennas and communications equipment</li></ul><h2>Installation experience</h2><p>The team’s published project history includes Samsara GPS deployments, Axon fleet systems, Cradlepoint routers, Airgain antennas, camera systems and mobile docking hardware.</p><p><a class="card-link" href="projects.html">View featured installations →</a></p></article><aside class="sidebar reveal"><h3>Technology Division</h3><p>Tempora Solutions supports mobile and facility technology installations.</p><a class="button button-primary" style="margin-top:20px;width:100%" href="tempora-solutions.html">Explore Tempora</a><a class="side-link" style="margin-top:20px" href="samsara-gps-installations.html">Samsara GPS Project</a><a class="side-link" href="axon-fleet-installations.html">Axon Fleet Project</a></aside></div></section>
+
+</main>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <a class="footer-logo-wrap" href="index.html"><img class="footer-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <p>Mobile fleet maintenance, roadside assistance and technology solutions.</p>
+    </div>
+    <div class="footer-col">
+      <strong>Services</strong>
+      <a href="mobile-fleet-service.html">Mobile Fleet Service</a>
+      <a href="roadside-assistance.html">Roadside Assistance</a>
+      <a href="fleet-technology.html">Fleet Technology</a>
+      <a href="commercial-ev-charging.html">EV Charging</a>
+    </div>
+    <div class="footer-col">
+      <strong>Explore</strong>
+      <a href="tempora-solutions.html">Tempora Solutions</a>
+      <a href="projects.html">Projects</a>
+      <a href="index.html#industries">Industries</a>
+      <a href="index.html#about">About</a>
+    </div>
+    <div class="footer-col">
+      <strong>Contact</strong>
+      <a href="tel:+18593279799">(859) 327-9799</a>
+      <span>116 Candlewood Drive</span>
+      <span>Winchester, KY 40391</span>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <span>© <span data-year></span> On-Time Truck & Trailer. All rights reserved.</span>
+    <a href="index.html">Home ↑</a>
+  </div>
+</footer>
+<script src="script.js"></script>
+
+</body>
+</html>
+
+===== index.html =====
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>On-Time Truck & Trailer | Mobile Fleet Service & Roadside Assistance</title>
+<meta name="description" content="Mobile fleet maintenance, roadside assistance, fleet technology and commercial EV charging solutions.">
+<link rel="canonical" href="https://ontimetruckandtrailer.com/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" type="image/jpeg" href="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="On-Time Truck & Trailer | Mobile Fleet Service & Roadside Assistance">
+<meta property="og:description" content="Mobile fleet maintenance, roadside assistance, fleet technology and commercial EV charging solutions.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://ontimetruckandtrailer.com/">
+<meta property="og:image" content="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"AutomotiveBusiness",
+  "name":"On-Time Truck & Trailer | Mobile Fleet Service & Roadside Assistance",
+  "url":"https://ontimetruckandtrailer.com/",
+  "isPartOf":{"@type":"WebSite","name":"On-Time Truck & Trailer","url":"https://ontimetruckandtrailer.com/"}
+}
+</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="utility-bar">
+    <div class="container utility-content">
+      <span>Mobile Fleet Service • Winchester, Kentucky</span>
+      <span><a href="tel:+18593279799">On-Time: (859) 327-9799</a> &nbsp;|&nbsp; <a href="tel:+17725283588">Tempora: (772) 528-3588</a></span>
+    </div>
+  </div>
+  <div class="main-nav-wrapper">
+    <nav class="container main-nav" aria-label="Primary">
+      <a href="index.html" aria-label="On-Time Truck and Trailer home"><img class="brand-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false"><span></span><span></span><span></span></button>
+      <div class="nav-links">
+        <a href="mobile-fleet-service.html">Fleet Service</a>
+        <a href="roadside-assistance.html">Roadside</a>
+        <a href="fleet-technology.html">Technology</a>
+        <a href="commercial-ev-charging.html">EV Charging</a>
+        <a href="projects.html">Projects</a>
+        <a href="index.html#about">About</a>
+        <a class="nav-button" href="tel:+18593279799">Call Now</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<section class="hero">
+  <div class="container hero-grid">
+    <div class="hero-copy reveal">
+      <p class="eyebrow">MOBILE FLEET SERVICE</p>
+      <h1>Keep your fleet <span>moving.</span></h1>
+      <p>Mobile maintenance, emergency roadside repair and fleet technology support delivered where your vehicles and operations need it.</p>
+      <div class="hero-actions">
+        <a class="button button-primary" href="tel:+18593279799">Call (859) 327-9799</a>
+        <a class="button button-outline" href="mobile-fleet-service.html">Explore Fleet Service</a>
+      </div>
+    </div>
+    <div class="hero-panel reveal">
+      <p class="eyebrow">YOUR PARTNER IN UPTIME</p>
+      <h2>Shop-quality service without the shop delay.</h2>
+      <p>On-Time brings technicians, tools and service capability directly to fleet lots, facilities, job sites and roadside locations.</p>
+      <ul class="hero-bullets"><li>Mobile maintenance and diagnostics</li><li>24/7 roadside assistance in selected areas</li><li>Nationwide technology installations</li></ul>
+    </div>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="section-heading reveal"><p class="eyebrow">CORE SERVICES</p><h2>Separate pages for the services customers actually search for.</h2><p>Each core capability now has its own destination, making the site easier to navigate, easier to rank, and easier for partners or directories to link to.</p></div>
+    <div class="cards-grid">
+      <article class="card reveal"><div class="num">01</div><h3>Mobile Fleet Service</h3><p>Preventative maintenance, diagnostics and repairs at the fleet location.</p><a class="card-link" href="mobile-fleet-service.html">View fleet service →</a></article>
+      <article class="card reveal"><div class="num">02</div><h3>24/7 Roadside Assistance</h3><p>Rapid-response support for commercial trucks, trailers and fleet vehicles in selected areas.</p><a class="card-link" href="roadside-assistance.html">View roadside service →</a></article>
+      <article class="card reveal"><div class="num">03</div><h3>Fleet Technology</h3><p>Mobile installation of GPS, cameras, networking and rugged vehicle hardware.</p><a class="card-link" href="fleet-technology.html">View fleet technology →</a></article>
+      <article class="card reveal"><div class="num">04</div><h3>Commercial EV Charging</h3><p>Charging infrastructure and technology designed around commercial fleet operations.</p><a class="card-link" href="commercial-ev-charging.html">View EV charging →</a></article>
+    </div>
+  </div>
+</section>
+<section class="section dark-section" id="industries">
+  <div class="container">
+    <div class="section-heading reveal"><p class="eyebrow">INDUSTRIES</p><h2>Supporting operations that depend on uptime.</h2></div>
+    <div class="industry-grid">
+      <div class="industry reveal"><div class="num">01</div><h3>Transportation & Logistics</h3><p>Commercial trucks, trailers and logistics fleets.</p></div>
+      <div class="industry reveal"><div class="num">02</div><h3>Government</h3><p>Government vehicles, facilities and field deployments.</p></div>
+      <div class="industry reveal"><div class="num">03</div><h3>Public Safety</h3><p>Fleet technology for law enforcement and emergency services.</p></div>
+      <div class="industry reveal"><div class="num">04</div><h3>Education & Commercial</h3><p>Connected systems, facilities and mobile infrastructure.</p></div>
+    </div>
+  </div>
+</section>
+<section class="section" id="about">
+  <div class="container split">
+    <div class="reveal"><p class="eyebrow">ABOUT ON-TIME</p><h2>Less downtime. More road time.</h2></div>
+    <div class="reveal"><p>On-Time Truck & Trailer Fleet Services specializes in maintenance, repair and upgrading of fleet vehicles. Mobile service helps maintenance and repairs happen where vehicles operate, reducing unnecessary shop visits and operational disruption.</p><p style="margin-top:18px"><a class="card-link" href="projects.html">See featured installations →</a></p></div>
+  </div>
+</section>
+<section class="section"><div class="container cta reveal"><div><p class="eyebrow" style="color:#fff">NEED FLEET SERVICE?</p><h2>Get your operation moving again.</h2><p>116 Candlewood Drive, Winchester, KY 40391</p></div><div class="cta-actions"><a class="button button-light" href="tel:+18593279799">Call (859) 327-9799</a></div></div></section>
+
+</main>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <a class="footer-logo-wrap" href="index.html"><img class="footer-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <p>Mobile fleet maintenance, roadside assistance and technology solutions.</p>
+    </div>
+    <div class="footer-col">
+      <strong>Services</strong>
+      <a href="mobile-fleet-service.html">Mobile Fleet Service</a>
+      <a href="roadside-assistance.html">Roadside Assistance</a>
+      <a href="fleet-technology.html">Fleet Technology</a>
+      <a href="commercial-ev-charging.html">EV Charging</a>
+    </div>
+    <div class="footer-col">
+      <strong>Explore</strong>
+      <a href="tempora-solutions.html">Tempora Solutions</a>
+      <a href="projects.html">Projects</a>
+      <a href="index.html#industries">Industries</a>
+      <a href="index.html#about">About</a>
+    </div>
+    <div class="footer-col">
+      <strong>Contact</strong>
+      <a href="tel:+18593279799">(859) 327-9799</a>
+      <span>116 Candlewood Drive</span>
+      <span>Winchester, KY 40391</span>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <span>© <span data-year></span> On-Time Truck & Trailer. All rights reserved.</span>
+    <a href="index.html">Home ↑</a>
+  </div>
+</footer>
+<script src="script.js"></script>
+
+</body>
+</html>
+
+===== mobile-fleet-service.html =====
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mobile Fleet Service | On-Time Truck & Trailer</title>
+<meta name="description" content="Mobile fleet maintenance, diagnostics and repair delivered directly to commercial fleet locations.">
+<link rel="canonical" href="https://ontimetruckandtrailer.com/mobile-fleet-service/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" type="image/jpeg" href="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Mobile Fleet Service | On-Time Truck & Trailer">
+<meta property="og:description" content="Mobile fleet maintenance, diagnostics and repair delivered directly to commercial fleet locations.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://ontimetruckandtrailer.com/mobile-fleet-service/">
+<meta property="og:image" content="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"WebPage",
+  "name":"Mobile Fleet Service | On-Time Truck & Trailer",
+  "url":"https://ontimetruckandtrailer.com/mobile-fleet-service/",
+  "isPartOf":{"@type":"WebSite","name":"On-Time Truck & Trailer","url":"https://ontimetruckandtrailer.com/"}
+}
+</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="utility-bar">
+    <div class="container utility-content">
+      <span>Mobile Fleet Service • Winchester, Kentucky</span>
+      <span><a href="tel:+18593279799">On-Time: (859) 327-9799</a> &nbsp;|&nbsp; <a href="tel:+17725283588">Tempora: (772) 528-3588</a></span>
+    </div>
+  </div>
+  <div class="main-nav-wrapper">
+    <nav class="container main-nav" aria-label="Primary">
+      <a href="index.html" aria-label="On-Time Truck and Trailer home"><img class="brand-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false"><span></span><span></span><span></span></button>
+      <div class="nav-links">
+        <a href="mobile-fleet-service.html">Fleet Service</a>
+        <a href="roadside-assistance.html">Roadside</a>
+        <a href="fleet-technology.html">Technology</a>
+        <a href="commercial-ev-charging.html">EV Charging</a>
+        <a href="projects.html">Projects</a>
+        <a href="index.html#about">About</a>
+        <a class="nav-button" href="tel:+18593279799">Call Now</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<section class="page-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a> / Mobile Fleet Service</div><p class="eyebrow">MOBILE FLEET SERVICE</p><h1>Fleet maintenance where your vehicles already are.</h1><p>Routine maintenance, diagnostics and unexpected repairs delivered directly to your fleet location to help reduce downtime and unnecessary shop visits.</p></div></section>
+<section class="section"><div class="container content-grid"><article class="prose reveal"><h2>Mobile repair built around uptime.</h2><p>On-Time’s mobile fleet service is designed to keep vehicles running without the downtime and hassle of traditional shop visits. Technicians come directly to the customer location with tools and equipment needed to perform service efficiently.</p><h2>Fleet service capabilities</h2><ul><li>Routine and preventative maintenance</li><li>Vehicle diagnostics</li><li>Unexpected mechanical repairs</li><li>Truck and trailer service</li><li>Flexible fleet scheduling</li></ul><h2>Why mobile service matters</h2><p>Keeping vehicles at the operating location can reduce transportation to and from a repair facility, limit driver disruption and help fleet managers schedule maintenance around the operation.</p><h2>Related services</h2><p><a class="card-link" href="roadside-assistance.html">24/7 Roadside Assistance →</a><br><a class="card-link" href="fleet-technology.html">Fleet Technology Installation →</a></p></article><aside class="sidebar reveal"><h3>On-Time Services</h3><a class="side-link" href="mobile-fleet-service.html">Mobile Fleet Service</a><a class="side-link" href="roadside-assistance.html">Roadside Assistance</a><a class="side-link" href="fleet-technology.html">Fleet Technology</a><a class="side-link" href="commercial-ev-charging.html">EV Charging</a><a class="button button-primary" style="margin-top:22px;width:100%" href="tel:+18593279799">Call for Service</a></aside></div></section>
+<section class="section"><div class="container cta reveal"><div><h2>Bring the service to your fleet.</h2><p>Call On-Time Truck & Trailer at (859) 327-9799.</p></div><div class="cta-actions"><a class="button button-light" href="tel:+18593279799">Call Now</a></div></div></section>
+
+</main>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <a class="footer-logo-wrap" href="index.html"><img class="footer-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <p>Mobile fleet maintenance, roadside assistance and technology solutions.</p>
+    </div>
+    <div class="footer-col">
+      <strong>Services</strong>
+      <a href="mobile-fleet-service.html">Mobile Fleet Service</a>
+      <a href="roadside-assistance.html">Roadside Assistance</a>
+      <a href="fleet-technology.html">Fleet Technology</a>
+      <a href="commercial-ev-charging.html">EV Charging</a>
+    </div>
+    <div class="footer-col">
+      <strong>Explore</strong>
+      <a href="tempora-solutions.html">Tempora Solutions</a>
+      <a href="projects.html">Projects</a>
+      <a href="index.html#industries">Industries</a>
+      <a href="index.html#about">About</a>
+    </div>
+    <div class="footer-col">
+      <strong>Contact</strong>
+      <a href="tel:+18593279799">(859) 327-9799</a>
+      <span>116 Candlewood Drive</span>
+      <span>Winchester, KY 40391</span>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <span>© <span data-year></span> On-Time Truck & Trailer. All rights reserved.</span>
+    <a href="index.html">Home ↑</a>
+  </div>
+</footer>
+<script src="script.js"></script>
+
+</body>
+</html>
+
+===== projects.html =====
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Featured Fleet Installations | On-Time Truck & Trailer</title>
+<meta name="description" content="Featured fleet and mobile technology installations from On-Time Truck & Trailer and Tempora Solutions.">
+<link rel="canonical" href="https://ontimetruckandtrailer.com/projects/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" type="image/jpeg" href="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Featured Fleet Installations | On-Time Truck & Trailer">
+<meta property="og:description" content="Featured fleet and mobile technology installations from On-Time Truck & Trailer and Tempora Solutions.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://ontimetruckandtrailer.com/projects/">
+<meta property="og:image" content="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"WebPage",
+  "name":"Featured Fleet Installations | On-Time Truck & Trailer",
+  "url":"https://ontimetruckandtrailer.com/projects/",
+  "isPartOf":{"@type":"WebSite","name":"On-Time Truck & Trailer","url":"https://ontimetruckandtrailer.com/"}
+}
+</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="utility-bar">
+    <div class="container utility-content">
+      <span>Mobile Fleet Service • Winchester, Kentucky</span>
+      <span><a href="tel:+18593279799">On-Time: (859) 327-9799</a> &nbsp;|&nbsp; <a href="tel:+17725283588">Tempora: (772) 528-3588</a></span>
+    </div>
+  </div>
+  <div class="main-nav-wrapper">
+    <nav class="container main-nav" aria-label="Primary">
+      <a href="index.html" aria-label="On-Time Truck and Trailer home"><img class="brand-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false"><span></span><span></span><span></span></button>
+      <div class="nav-links">
+        <a href="mobile-fleet-service.html">Fleet Service</a>
+        <a href="roadside-assistance.html">Roadside</a>
+        <a href="fleet-technology.html">Technology</a>
+        <a href="commercial-ev-charging.html">EV Charging</a>
+        <a href="projects.html">Projects</a>
+        <a href="index.html#about">About</a>
+        <a class="nav-button" href="tel:+18593279799">Call Now</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<section class="page-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a> / Projects</div><p class="eyebrow">FEATURED INSTALLATIONS</p><h1>Fleet and technology work worth linking to.</h1><p>Dedicated project pages give customers, partners and industry directories a specific piece of work to reference instead of linking only to the homepage.</p></div></section>
+<section class="section"><div class="container"><div class="project-grid">
+<article class="project-card featured reveal"><div class="project-meta">KENTUCKY • INDIANA • OHIO</div><h3>1,100+ Samsara GPS installations</h3><p>GPS technology installed on 43-foot Wabash trailers for a logistics customer across three states.</p><p style="margin-top:18px"><a class="card-link" href="samsara-gps-installations.html">View project →</a></p></article>
+<article class="project-card reveal"><div class="project-meta">NATIONWIDE</div><h3>650+ VAMC Axon F3 installations</h3><p>Axon F3 systems plus antennas, routers and docking hardware.</p><p style="margin-top:18px"><a class="card-link" href="axon-fleet-installations.html">View project →</a></p></article>
+<article class="project-card reveal"><div class="project-meta">YELLOWSTONE</div><h3>National Park Service installation</h3><p>Axon Fleet 2, Airgain antenna, Cradlepoint router and docking hardware.</p><p style="margin-top:18px"><a class="card-link" href="yellowstone-fleet-installation.html">View project →</a></p></article>
+<article class="project-card reveal"><div class="project-meta">HOUSTON, TEXAS</div><h3>AD Plus camera installation</h3><p>Dual-facing cameras, mirror peripherals and LCD monitors across transport vehicles.</p></article>
+<article class="project-card reveal"><div class="project-meta">COLORADO</div><h3>AI camera fleet installation</h3><p>Camera and DVR systems deployed on tractor and tanker-trailer configurations.</p></article>
+<article class="project-card reveal"><div class="project-meta">BOWLING GREEN, KY</div><h3>Axon Fleet 3 police installation</h3><p>Public-safety fleet technology installation for Bowling Green Police Department.</p></article>
+</div></div></section>
+
+</main>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <a class="footer-logo-wrap" href="index.html"><img class="footer-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <p>Mobile fleet maintenance, roadside assistance and technology solutions.</p>
+    </div>
+    <div class="footer-col">
+      <strong>Services</strong>
+      <a href="mobile-fleet-service.html">Mobile Fleet Service</a>
+      <a href="roadside-assistance.html">Roadside Assistance</a>
+      <a href="fleet-technology.html">Fleet Technology</a>
+      <a href="commercial-ev-charging.html">EV Charging</a>
+    </div>
+    <div class="footer-col">
+      <strong>Explore</strong>
+      <a href="tempora-solutions.html">Tempora Solutions</a>
+      <a href="projects.html">Projects</a>
+      <a href="index.html#industries">Industries</a>
+      <a href="index.html#about">About</a>
+    </div>
+    <div class="footer-col">
+      <strong>Contact</strong>
+      <a href="tel:+18593279799">(859) 327-9799</a>
+      <span>116 Candlewood Drive</span>
+      <span>Winchester, KY 40391</span>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <span>© <span data-year></span> On-Time Truck & Trailer. All rights reserved.</span>
+    <a href="index.html">Home ↑</a>
+  </div>
+</footer>
+<script src="script.js"></script>
+
+</body>
+</html>
+
+===== roadside-assistance.html =====
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>24/7 Roadside Assistance | On-Time Truck & Trailer</title>
+<meta name="description" content="24/7 roadside assistance for trucks, trailers and fleet vehicles in selected service areas.">
+<link rel="canonical" href="https://ontimetruckandtrailer.com/roadside-assistance/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" type="image/jpeg" href="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="24/7 Roadside Assistance | On-Time Truck & Trailer">
+<meta property="og:description" content="24/7 roadside assistance for trucks, trailers and fleet vehicles in selected service areas.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://ontimetruckandtrailer.com/roadside-assistance/">
+<meta property="og:image" content="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"WebPage",
+  "name":"24/7 Roadside Assistance | On-Time Truck & Trailer",
+  "url":"https://ontimetruckandtrailer.com/roadside-assistance/",
+  "isPartOf":{"@type":"WebSite","name":"On-Time Truck & Trailer","url":"https://ontimetruckandtrailer.com/"}
+}
+</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="utility-bar">
+    <div class="container utility-content">
+      <span>Mobile Fleet Service • Winchester, Kentucky</span>
+      <span><a href="tel:+18593279799">On-Time: (859) 327-9799</a> &nbsp;|&nbsp; <a href="tel:+17725283588">Tempora: (772) 528-3588</a></span>
+    </div>
+  </div>
+  <div class="main-nav-wrapper">
+    <nav class="container main-nav" aria-label="Primary">
+      <a href="index.html" aria-label="On-Time Truck and Trailer home"><img class="brand-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false"><span></span><span></span><span></span></button>
+      <div class="nav-links">
+        <a href="mobile-fleet-service.html">Fleet Service</a>
+        <a href="roadside-assistance.html">Roadside</a>
+        <a href="fleet-technology.html">Technology</a>
+        <a href="commercial-ev-charging.html">EV Charging</a>
+        <a href="projects.html">Projects</a>
+        <a href="index.html#about">About</a>
+        <a class="nav-button" href="tel:+18593279799">Call Now</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<section class="page-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a> / Roadside Assistance</div><p class="eyebrow">24/7 ROADSIDE ASSISTANCE</p><h1>Roadside support when fleet downtime cannot wait.</h1><p>Rapid-response roadside assistance for trucks, trailers and fleet vehicles in selected areas.</p></div></section>
+<section class="section"><div class="container content-grid"><article class="prose reveal"><h2>Fleet-focused roadside support.</h2><p>Unexpected breakdowns cost fleets time. On-Time provides around-the-clock roadside support in selected service areas to help drivers and vehicles get moving again with minimal disruption.</p><h2>Common roadside needs</h2><ul><li>Flat tires and tire-related issues</li><li>Dead batteries and starting problems</li><li>Mechanical breakdowns</li><li>Brake-related problems</li><li>Unexpected roadside repairs</li></ul><h2>Built for commercial operations</h2><p>The service is designed specifically around fleet uptime, where every minute a commercial vehicle is sidelined can affect schedules, customers and operating costs.</p><h2>Prevent the next breakdown</h2><p><a class="card-link" href="mobile-fleet-service.html">Explore preventative mobile fleet maintenance →</a></p></article><aside class="sidebar reveal"><h3>Need roadside help?</h3><p>Call the published On-Time service number directly.</p><a class="button button-primary" style="margin-top:20px;width:100%" href="tel:+18593279799">(859) 327-9799</a><a class="side-link" style="margin-top:20px" href="mobile-fleet-service.html">Mobile Fleet Service</a><a class="side-link" href="projects.html">Featured Work</a></aside></div></section>
+
+</main>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <a class="footer-logo-wrap" href="index.html"><img class="footer-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <p>Mobile fleet maintenance, roadside assistance and technology solutions.</p>
+    </div>
+    <div class="footer-col">
+      <strong>Services</strong>
+      <a href="mobile-fleet-service.html">Mobile Fleet Service</a>
+      <a href="roadside-assistance.html">Roadside Assistance</a>
+      <a href="fleet-technology.html">Fleet Technology</a>
+      <a href="commercial-ev-charging.html">EV Charging</a>
+    </div>
+    <div class="footer-col">
+      <strong>Explore</strong>
+      <a href="tempora-solutions.html">Tempora Solutions</a>
+      <a href="projects.html">Projects</a>
+      <a href="index.html#industries">Industries</a>
+      <a href="index.html#about">About</a>
+    </div>
+    <div class="footer-col">
+      <strong>Contact</strong>
+      <a href="tel:+18593279799">(859) 327-9799</a>
+      <span>116 Candlewood Drive</span>
+      <span>Winchester, KY 40391</span>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <span>© <span data-year></span> On-Time Truck & Trailer. All rights reserved.</span>
+    <a href="index.html">Home ↑</a>
+  </div>
+</footer>
+<script src="script.js"></script>
+
+</body>
+</html>
+
+===== robots.txt =====
+
+User-agent: *
+Allow: /
+Sitemap: https://ontimetruckandtrailer.com/sitemap.xml
+
+
+===== samsara-gps-installations.html =====
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Samsara GPS Installations | On-Time Truck & Trailer</title>
+<meta name="description" content="More than 1,100 Samsara GPS installations on 43-foot Wabash trailers across Kentucky, Indiana and Ohio.">
+<link rel="canonical" href="https://ontimetruckandtrailer.com/samsara-gps-installations/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" type="image/jpeg" href="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Samsara GPS Installations | On-Time Truck & Trailer">
+<meta property="og:description" content="More than 1,100 Samsara GPS installations on 43-foot Wabash trailers across Kentucky, Indiana and Ohio.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://ontimetruckandtrailer.com/samsara-gps-installations/">
+<meta property="og:image" content="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"WebPage",
+  "name":"Samsara GPS Installations | On-Time Truck & Trailer",
+  "url":"https://ontimetruckandtrailer.com/samsara-gps-installations/",
+  "isPartOf":{"@type":"WebSite","name":"On-Time Truck & Trailer","url":"https://ontimetruckandtrailer.com/"}
+}
+</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="utility-bar">
+    <div class="container utility-content">
+      <span>Mobile Fleet Service • Winchester, Kentucky</span>
+      <span><a href="tel:+18593279799">On-Time: (859) 327-9799</a> &nbsp;|&nbsp; <a href="tel:+17725283588">Tempora: (772) 528-3588</a></span>
+    </div>
+  </div>
+  <div class="main-nav-wrapper">
+    <nav class="container main-nav" aria-label="Primary">
+      <a href="index.html" aria-label="On-Time Truck and Trailer home"><img class="brand-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false"><span></span><span></span><span></span></button>
+      <div class="nav-links">
+        <a href="mobile-fleet-service.html">Fleet Service</a>
+        <a href="roadside-assistance.html">Roadside</a>
+        <a href="fleet-technology.html">Technology</a>
+        <a href="commercial-ev-charging.html">EV Charging</a>
+        <a href="projects.html">Projects</a>
+        <a href="index.html#about">About</a>
+        <a class="nav-button" href="tel:+18593279799">Call Now</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<section class="page-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a> / <a href="projects.html">Projects</a> / Samsara GPS</div><p class="eyebrow">PROJECT CASE STUDY</p><h1>1,100+ Samsara GPS installations.</h1><p>Mobile GPS installation on 43-foot Wabash trailers for a logistics customer based across Kentucky, Indiana and Ohio.</p></div></section>
+<section class="section"><div class="container content-grid"><article class="prose reveal"><h2>Project overview</h2><p>The published On-Time project record describes more than 1,100 Samsara GPS installations completed on 43-foot Wabash trailers across Kentucky, Indiana and Ohio.</p><h2>Why this project matters</h2><p>Large multi-location deployments require consistent installation standards, scheduling and field coordination. This project demonstrates the type of nationwide mobile fleet technology work supported through Tempora Solutions.</p><h2>Related capability</h2><p><a class="card-link" href="fleet-technology.html">Mobile fleet technology installation →</a></p></article><aside class="sidebar reveal"><h3>Project Facts</h3><p><strong>Scale:</strong> 1,100+ installs</p><p><strong>Equipment:</strong> Samsara GPS</p><p><strong>Vehicle:</strong> 43-foot Wabash trailers</p><p><strong>States:</strong> KY, IN, OH</p><a class="button button-primary" style="margin-top:20px;width:100%" href="tel:+17725283588">Call Tempora</a></aside></div></section>
+
+</main>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <a class="footer-logo-wrap" href="index.html"><img class="footer-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <p>Mobile fleet maintenance, roadside assistance and technology solutions.</p>
+    </div>
+    <div class="footer-col">
+      <strong>Services</strong>
+      <a href="mobile-fleet-service.html">Mobile Fleet Service</a>
+      <a href="roadside-assistance.html">Roadside Assistance</a>
+      <a href="fleet-technology.html">Fleet Technology</a>
+      <a href="commercial-ev-charging.html">EV Charging</a>
+    </div>
+    <div class="footer-col">
+      <strong>Explore</strong>
+      <a href="tempora-solutions.html">Tempora Solutions</a>
+      <a href="projects.html">Projects</a>
+      <a href="index.html#industries">Industries</a>
+      <a href="index.html#about">About</a>
+    </div>
+    <div class="footer-col">
+      <strong>Contact</strong>
+      <a href="tel:+18593279799">(859) 327-9799</a>
+      <span>116 Candlewood Drive</span>
+      <span>Winchester, KY 40391</span>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <span>© <span data-year></span> On-Time Truck & Trailer. All rights reserved.</span>
+    <a href="index.html">Home ↑</a>
+  </div>
+</footer>
+<script src="script.js"></script>
+
+</body>
+</html>
+
+===== script.js =====
+
+const menuToggle=document.querySelector(".menu-toggle");
+const navLinks=document.querySelector(".nav-links");
+if(menuToggle&&navLinks){
+  menuToggle.addEventListener("click",()=>{
+    const open=navLinks.classList.toggle("open");
+    menuToggle.classList.toggle("active",open);
+    menuToggle.setAttribute("aria-expanded",String(open));
+  });
+  navLinks.querySelectorAll("a").forEach(a=>a.addEventListener("click",()=>{
+    navLinks.classList.remove("open");menuToggle.classList.remove("active");menuToggle.setAttribute("aria-expanded","false");
+  }));
+}
+document.querySelectorAll("[data-year]").forEach(el=>el.textContent=new Date().getFullYear());
+const reveals=document.querySelectorAll(".reveal");
+if("IntersectionObserver" in window){
+  const io=new IntersectionObserver(entries=>entries.forEach(e=>{
+    if(e.isIntersecting){e.target.classList.add("visible");io.unobserve(e.target)}
+  }),{threshold:.12});
+  reveals.forEach(el=>io.observe(el));
+}else{reveals.forEach(el=>el.classList.add("visible"))}
+
+
+===== sitemap.xml =====
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ontimetruckandtrailer.com/</loc>
+  </url>
+  <url>
+    <loc>https://ontimetruckandtrailer.com/mobile-fleet-service/</loc>
+  </url>
+  <url>
+    <loc>https://ontimetruckandtrailer.com/roadside-assistance/</loc>
+  </url>
+  <url>
+    <loc>https://ontimetruckandtrailer.com/fleet-technology/</loc>
+  </url>
+  <url>
+    <loc>https://ontimetruckandtrailer.com/commercial-ev-charging/</loc>
+  </url>
+  <url>
+    <loc>https://ontimetruckandtrailer.com/tempora-solutions/</loc>
+  </url>
+  <url>
+    <loc>https://ontimetruckandtrailer.com/projects/</loc>
+  </url>
+  <url>
+    <loc>https://ontimetruckandtrailer.com/samsara-gps-installations/</loc>
+  </url>
+  <url>
+    <loc>https://ontimetruckandtrailer.com/axon-fleet-installations/</loc>
+  </url>
+  <url>
+    <loc>https://ontimetruckandtrailer.com/yellowstone-fleet-installation/</loc>
+  </url>
+</urlset>
+
+
+===== styles.css =====
+
+:root{
+  --navy:#0c1724;--navy2:#132437;--orange:#e66b25;--orange2:#c85718;
+  --white:#fff;--off:#f5f7f8;--line:#e8ecef;--gray:#697581;--text:#17212b;
+  --container:1180px;--radius:10px;--shadow:0 18px 50px rgba(12,23,36,.09)
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:Inter,Arial,sans-serif;color:var(--text);background:var(--white);line-height:1.65;overflow-x:hidden}
+img{display:block;max-width:100%}a{color:inherit;text-decoration:none}ul{list-style:none}
+.container{width:min(calc(100% - 40px),var(--container));margin-inline:auto}
+.section{padding:96px 0}.eyebrow{color:var(--orange);font-size:.77rem;font-weight:800;letter-spacing:.15em;margin-bottom:15px}
+h1,h2,h3{font-family:"Barlow Condensed",Arial,sans-serif;line-height:1;color:var(--navy)}
+h1{font-size:clamp(3.7rem,7vw,6.8rem);font-weight:800;letter-spacing:-.035em}
+h2{font-size:clamp(2.6rem,5vw,4.5rem);font-weight:800;letter-spacing:-.025em}
+h3{font-size:1.9rem}
+p{color:var(--gray)}
+.button{display:inline-flex;align-items:center;justify-content:center;min-height:50px;padding:12px 22px;border-radius:6px;font-weight:700;transition:.2s ease}
+.button:hover{transform:translateY(-2px)}.button-primary{background:var(--orange);color:white}.button-primary:hover{background:var(--orange2)}
+.button-dark{background:var(--navy);color:#fff}.button-outline{border:1px solid rgba(255,255,255,.35);color:#fff}.button-light{background:#fff;color:var(--navy)}
+.site-header{position:relative;width:100%;background:#fff;z-index:20}
+.utility-bar{background:var(--navy);color:rgba(255,255,255,.75);font-size:.74rem}
+.utility-content{min-height:34px;display:flex;align-items:center;justify-content:space-between;gap:20px}
+.utility-content a{color:#fff;font-weight:700}
+.main-nav-wrapper{border-bottom:1px solid var(--line);background:#fff}
+.main-nav{min-height:86px;display:flex;align-items:center;justify-content:space-between;gap:28px;position:relative}
+.brand-logo{height:54px;width:auto;max-width:180px;object-fit:contain}
+.nav-links{display:flex;align-items:center;gap:25px}.nav-links a{font-weight:700;font-size:.9rem}.nav-links a:hover{color:var(--orange)}
+.nav-button{background:var(--orange)!important;color:#fff!important;padding:10px 17px;border-radius:5px}
+.menu-toggle{display:none;background:none;border:0;padding:8px}.menu-toggle span{display:block;width:26px;height:2px;background:var(--navy);margin:5px 0}
+.hero{background:radial-gradient(circle at 82% 16%,rgba(72,118,158,.22),transparent 34%),linear-gradient(135deg,#07111c,#0d1b2b 65%,#132c42);color:#fff}
+.hero-grid{min-height:640px;display:grid;grid-template-columns:1.15fr .85fr;align-items:center;gap:70px;padding:72px 0}
+.hero h1,.hero h2{color:#fff}.hero h1 span{color:var(--orange)}.hero-copy>p:not(.eyebrow){font-size:1.08rem;max-width:650px;color:rgba(255,255,255,.68)}
+.hero-actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:32px}
+.hero-panel{border:1px solid rgba(255,255,255,.13);background:rgba(255,255,255,.055);padding:32px;box-shadow:0 25px 70px rgba(0,0,0,.25)}
+.hero-panel h2{font-size:2.8rem;margin:14px 0 18px}.hero-panel p{color:rgba(255,255,255,.58)}
+.hero-bullets{margin-top:25px}.hero-bullets li{padding:11px 0;border-top:1px solid rgba(255,255,255,.1);color:rgba(255,255,255,.78)}
+.hero-bullets li::before{content:"✓";color:var(--orange);margin-right:10px;font-weight:800}
+.section-heading{max-width:760px;margin-bottom:48px}.section-heading h2{margin-bottom:18px}.section-heading p{font-size:1.02rem}
+.cards-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}.card{padding:35px;border:1px solid var(--line);border-radius:var(--radius);background:#fff;transition:.22s}
+.card:hover{transform:translateY(-4px);box-shadow:var(--shadow);border-color:rgba(230,107,37,.45)}.card .num{color:var(--orange);font-weight:800;font-family:"Barlow Condensed";margin-bottom:38px}
+.card h3{margin-bottom:12px}.card p{margin-bottom:18px}.card-link{color:var(--orange);font-weight:800;font-size:.9rem}
+.dark-section{background:var(--navy);color:#fff}.dark-section h2,.dark-section h3{color:#fff}.dark-section p{color:rgba(255,255,255,.6)}
+.split{display:grid;grid-template-columns:1fr 1fr;gap:75px;align-items:start}.feature-list{display:grid;gap:1px;background:rgba(255,255,255,.12)}
+.feature-item{background:var(--navy2);padding:24px}.feature-item strong{display:block;color:#fff;font-size:1rem;margin-bottom:4px}.feature-item span{color:rgba(255,255,255,.55);font-size:.86rem}
+.industry-grid{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.industry{padding:30px;border-right:1px solid var(--line);min-height:230px}.industry:first-child{border-left:1px solid var(--line)}.industry .num{color:var(--orange);font-weight:800;margin-bottom:50px}.industry p{font-size:.88rem;margin-top:10px}
+.project-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.project-card{min-height:260px;display:flex;flex-direction:column;justify-content:flex-end;padding:30px;border:1px solid var(--line);border-radius:var(--radius);background:#fff}
+.project-card.featured{grid-column:span 2;background:var(--navy);border-color:var(--navy)}.project-card.featured h3{color:#fff}.project-card.featured p{color:rgba(255,255,255,.58)}
+.project-meta{color:var(--orange);font-size:.69rem;font-weight:800;letter-spacing:.1em;margin-bottom:auto}.project-card h3{margin:45px 0 10px}.project-card p{font-size:.89rem}
+.page-hero{padding:82px 0;background:linear-gradient(135deg,#07111c,#10263a);color:#fff}.page-hero h1{color:#fff;max-width:850px}.page-hero p{max-width:720px;color:rgba(255,255,255,.66);margin-top:20px;font-size:1.05rem}
+.breadcrumbs{font-size:.76rem;color:rgba(255,255,255,.55);margin-bottom:18px}.breadcrumbs a{color:#ff9a61}
+.content-grid{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(290px,.7fr);gap:70px;align-items:start}
+.prose h2{margin:45px 0 18px}.prose h2:first-child{margin-top:0}.prose p{margin:0 0 18px}.prose ul{margin:18px 0 28px}.prose li{padding:9px 0 9px 20px;border-bottom:1px solid var(--line);position:relative}.prose li::before{content:"";position:absolute;left:0;top:18px;width:6px;height:6px;border-radius:50%;background:var(--orange)}
+.sidebar{padding:28px;background:var(--off);border:1px solid var(--line);border-radius:var(--radius)}.sidebar h3{margin-bottom:16px}.sidebar a.side-link{display:block;padding:10px 0;border-top:1px solid var(--line);font-weight:700;font-size:.88rem}.sidebar a.side-link:hover{color:var(--orange)}
+.cta{background:linear-gradient(135deg,var(--orange),#c94f13);color:#fff;border-radius:12px;padding:48px;display:grid;grid-template-columns:1.25fr .75fr;gap:40px;align-items:center}.cta h2{color:#fff}.cta p{color:rgba(255,255,255,.76);margin-top:12px}.cta-actions{display:flex;flex-wrap:wrap;gap:10px;justify-content:flex-end}
+.footer{background:#08121d;color:rgba(255,255,255,.6);padding-top:65px}.footer-grid{display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr;gap:50px}.footer-logo-wrap{display:inline-flex;background:#fff;padding:6px;border-radius:6px}.footer-logo{height:46px;width:auto;max-width:155px}.footer p{font-size:.84rem;margin-top:18px;max-width:310px}.footer-col{display:flex;flex-direction:column;gap:8px;font-size:.82rem}.footer-col strong{color:#fff;margin-bottom:6px}.footer-col a:hover{color:var(--orange)}
+.footer-bottom{display:flex;justify-content:space-between;gap:20px;margin-top:55px;padding:22px 0 28px;border-top:1px solid rgba(255,255,255,.1);font-size:.75rem}
+.reveal{opacity:0;transform:translateY(16px);transition:opacity .5s ease,transform .5s ease}.reveal.visible{opacity:1;transform:none}
+@media(max-width:950px){.nav-links{gap:15px}.hero-grid,.split,.content-grid{grid-template-columns:1fr}.hero-panel{max-width:650px}.industry-grid{grid-template-columns:repeat(2,1fr)}.footer-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:800px){.utility-content>span:first-child{display:none}.utility-content{justify-content:center}.main-nav{min-height:72px}.brand-logo{height:45px;max-width:150px}.menu-toggle{display:block}.nav-links{display:none;position:absolute;top:100%;left:0;width:100%;background:#fff;flex-direction:column;align-items:stretch;padding:12px 20px 20px;border-bottom:1px solid var(--line);box-shadow:0 18px 30px rgba(0,0,0,.08)}.nav-links.open{display:flex}.nav-links a{padding:11px 0;border-bottom:1px solid var(--line)}.nav-button{text-align:center;margin-top:6px}.menu-toggle.active span:nth-child(1){transform:translateY(7px) rotate(45deg)}.menu-toggle.active span:nth-child(2){opacity:0}.menu-toggle.active span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}.cards-grid,.project-grid{grid-template-columns:1fr}.project-card.featured{grid-column:span 1}.cta{grid-template-columns:1fr}.cta-actions{justify-content:flex-start}}
+@media(max-width:620px){.container{width:min(calc(100% - 30px),var(--container))}.section{padding:75px 0}.hero-grid{min-height:auto;padding:60px 0}.hero-actions{flex-direction:column}.hero-actions .button{width:100%}.industry-grid{grid-template-columns:1fr}.industry,.industry:first-child{border-left:1px solid var(--line);border-right:1px solid var(--line);border-bottom:1px solid var(--line)}.footer-grid{grid-template-columns:1fr}.footer-bottom{flex-direction:column}.cta{padding:34px 26px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.reveal{opacity:1;transform:none;transition:none}}
+
+
+===== tempora-solutions.html =====
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tempora Solutions | Mobile Technology Installation</title>
+<meta name="description" content="Tempora Solutions provides mobile fleet technology, field mobility, security, networking and low-voltage installation support.">
+<link rel="canonical" href="https://ontimetruckandtrailer.com/tempora-solutions/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" type="image/jpeg" href="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Tempora Solutions | Mobile Technology Installation">
+<meta property="og:description" content="Tempora Solutions provides mobile fleet technology, field mobility, security, networking and low-voltage installation support.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://ontimetruckandtrailer.com/tempora-solutions/">
+<meta property="og:image" content="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"WebPage",
+  "name":"Tempora Solutions | Mobile Technology Installation",
+  "url":"https://ontimetruckandtrailer.com/tempora-solutions/",
+  "isPartOf":{"@type":"WebSite","name":"On-Time Truck & Trailer","url":"https://ontimetruckandtrailer.com/"}
+}
+</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="utility-bar">
+    <div class="container utility-content">
+      <span>Mobile Fleet Service • Winchester, Kentucky</span>
+      <span><a href="tel:+18593279799">On-Time: (859) 327-9799</a> &nbsp;|&nbsp; <a href="tel:+17725283588">Tempora: (772) 528-3588</a></span>
+    </div>
+  </div>
+  <div class="main-nav-wrapper">
+    <nav class="container main-nav" aria-label="Primary">
+      <a href="index.html" aria-label="On-Time Truck and Trailer home"><img class="brand-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false"><span></span><span></span><span></span></button>
+      <div class="nav-links">
+        <a href="mobile-fleet-service.html">Fleet Service</a>
+        <a href="roadside-assistance.html">Roadside</a>
+        <a href="fleet-technology.html">Technology</a>
+        <a href="commercial-ev-charging.html">EV Charging</a>
+        <a href="projects.html">Projects</a>
+        <a href="index.html#about">About</a>
+        <a class="nav-button" href="tel:+18593279799">Call Now</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<section class="page-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a> / Tempora Solutions</div><p class="eyebrow">TEMPORA SOLUTIONS</p><h1>Technology built for fleets, field teams and facilities.</h1><p>Mobile installation and integrated technology systems supporting logistics, public safety, government, education and commercial operations.</p></div></section>
+<section class="section dark-section"><div class="container split"><div class="reveal"><p class="eyebrow">CAPABILITIES</p><h2>Mobile and facility technology.</h2><p>Tempora Solutions is the technology division associated with On-Time Truck & Trailer.</p></div><div class="feature-list reveal"><div class="feature-item"><strong>Mobile Technology Fitment</strong><span>Cameras, rugged computing, communications and vehicle hardware.</span></div><div class="feature-item"><strong>Field Mobility</strong><span>Connected devices, secure data access and mobile networking.</span></div><div class="feature-item"><strong>Security Systems</strong><span>Video surveillance and access-control systems.</span></div><div class="feature-item"><strong>Network Infrastructure</strong><span>Connectivity for mobile and facility environments.</span></div></div></div></section>
+<section class="section"><div class="container content-grid"><article class="prose reveal"><h2>Nationwide installation experience.</h2><p>Published projects include large GPS deployments, Axon fleet installations, AI camera installations, National Park Service technology, CCTV systems and public-safety vehicle technology.</p><p><a class="card-link" href="projects.html">View the project portfolio →</a></p></article><aside class="sidebar reveal"><h3>Tempora Contact</h3><p>Published Tempora project pages use:</p><a class="button button-primary" style="margin-top:20px;width:100%" href="tel:+17725283588">(772) 528-3588</a><a class="side-link" style="margin-top:20px" href="fleet-technology.html">Fleet Technology</a><a class="side-link" href="projects.html">Projects</a></aside></div></section>
+
+</main>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <a class="footer-logo-wrap" href="index.html"><img class="footer-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <p>Mobile fleet maintenance, roadside assistance and technology solutions.</p>
+    </div>
+    <div class="footer-col">
+      <strong>Services</strong>
+      <a href="mobile-fleet-service.html">Mobile Fleet Service</a>
+      <a href="roadside-assistance.html">Roadside Assistance</a>
+      <a href="fleet-technology.html">Fleet Technology</a>
+      <a href="commercial-ev-charging.html">EV Charging</a>
+    </div>
+    <div class="footer-col">
+      <strong>Explore</strong>
+      <a href="tempora-solutions.html">Tempora Solutions</a>
+      <a href="projects.html">Projects</a>
+      <a href="index.html#industries">Industries</a>
+      <a href="index.html#about">About</a>
+    </div>
+    <div class="footer-col">
+      <strong>Contact</strong>
+      <a href="tel:+18593279799">(859) 327-9799</a>
+      <span>116 Candlewood Drive</span>
+      <span>Winchester, KY 40391</span>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <span>© <span data-year></span> On-Time Truck & Trailer. All rights reserved.</span>
+    <a href="index.html">Home ↑</a>
+  </div>
+</footer>
+<script src="script.js"></script>
+
+</body>
+</html>
+
+===== yellowstone-fleet-installation.html =====
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Yellowstone NPS Fleet Installation | On-Time Truck & Trailer</title>
+<meta name="description" content="Fleet technology installation at Yellowstone National Park featuring Axon Fleet 2, Airgain, Cradlepoint and docking hardware.">
+<link rel="canonical" href="https://ontimetruckandtrailer.com/yellowstone-fleet-installation/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" type="image/jpeg" href="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Yellowstone NPS Fleet Installation | On-Time Truck & Trailer">
+<meta property="og:description" content="Fleet technology installation at Yellowstone National Park featuring Axon Fleet 2, Airgain, Cradlepoint and docking hardware.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://ontimetruckandtrailer.com/yellowstone-fleet-installation/">
+<meta property="og:image" content="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"WebPage",
+  "name":"Yellowstone NPS Fleet Installation | On-Time Truck & Trailer",
+  "url":"https://ontimetruckandtrailer.com/yellowstone-fleet-installation/",
+  "isPartOf":{"@type":"WebSite","name":"On-Time Truck & Trailer","url":"https://ontimetruckandtrailer.com/"}
+}
+</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="utility-bar">
+    <div class="container utility-content">
+      <span>Mobile Fleet Service • Winchester, Kentucky</span>
+      <span><a href="tel:+18593279799">On-Time: (859) 327-9799</a> &nbsp;|&nbsp; <a href="tel:+17725283588">Tempora: (772) 528-3588</a></span>
+    </div>
+  </div>
+  <div class="main-nav-wrapper">
+    <nav class="container main-nav" aria-label="Primary">
+      <a href="index.html" aria-label="On-Time Truck and Trailer home"><img class="brand-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false"><span></span><span></span><span></span></button>
+      <div class="nav-links">
+        <a href="mobile-fleet-service.html">Fleet Service</a>
+        <a href="roadside-assistance.html">Roadside</a>
+        <a href="fleet-technology.html">Technology</a>
+        <a href="commercial-ev-charging.html">EV Charging</a>
+        <a href="projects.html">Projects</a>
+        <a href="index.html#about">About</a>
+        <a class="nav-button" href="tel:+18593279799">Call Now</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<section class="page-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a> / <a href="projects.html">Projects</a> / Yellowstone</div><p class="eyebrow">PROJECT CASE STUDY</p><h1>National Park Service installation at Yellowstone.</h1><p>Integrated in-vehicle camera, connectivity and docking technology installed at the Yellowstone National Park facility in Wyoming.</p></div></section>
+<section class="section"><div class="container content-grid"><article class="prose reveal"><h2>Installed technology</h2><p>The published project page lists an Axon Fleet 2 system with DVR, front and rear cameras, Gamber-Johnson and Havis docking hardware, a 5-in-1 Airgain antenna and a Cradlepoint 900-series router.</p><h2>Mobile installation expertise</h2><p>The project is an example of combining multiple systems within one fleet-vehicle installation, including video, wireless connectivity, antennas and rugged docking hardware.</p><p><a class="card-link" href="projects.html">View more installations →</a></p></article><aside class="sidebar reveal"><h3>Project Location</h3><p>Yellowstone National Park facility, Wyoming</p><a class="side-link" href="fleet-technology.html">Fleet Technology</a><a class="side-link" href="tempora-solutions.html">Tempora Solutions</a></aside></div></section>
+
+</main>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <a class="footer-logo-wrap" href="index.html"><img class="footer-logo" src="https://ontimetruckandtrailer.com/wp-content/uploads/2025/05/cropped-LogoOTTT.jpg" alt="On-Time Truck and Trailer"></a>
+      <p>Mobile fleet maintenance, roadside assistance and technology solutions.</p>
+    </div>
+    <div class="footer-col">
+      <strong>Services</strong>
+      <a href="mobile-fleet-service.html">Mobile Fleet Service</a>
+      <a href="roadside-assistance.html">Roadside Assistance</a>
+      <a href="fleet-technology.html">Fleet Technology</a>
+      <a href="commercial-ev-charging.html">EV Charging</a>
+    </div>
+    <div class="footer-col">
+      <strong>Explore</strong>
+      <a href="tempora-solutions.html">Tempora Solutions</a>
+      <a href="projects.html">Projects</a>
+      <a href="index.html#industries">Industries</a>
+      <a href="index.html#about">About</a>
+    </div>
+    <div class="footer-col">
+      <strong>Contact</strong>
+      <a href="tel:+18593279799">(859) 327-9799</a>
+      <span>116 Candlewood Drive</span>
+      <span>Winchester, KY 40391</span>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <span>© <span data-year></span> On-Time Truck & Trailer. All rights reserved.</span>
+    <a href="index.html">Home ↑</a>
+  </div>
+</footer>
+<script src="script.js"></script>
+
+</body>
+</html>
